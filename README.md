@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React.js , API Integration**
 
-- 👯 I’m looking to collaborate on **AI ML**
+- 👯 I’m looking to collaborate on **AI ML , Python Development**
 
-- 🤝 I’m looking for help with ** Full Stack web Development**
+- 🤝 I’m looking for help with **Full Stack web Development**
 
-- 💬 Ask me about **C++, Python, JAVA, Reactjs, MYSQL, Web Application Development, Android App Development ,Javascript, Firebase, CSS, AI& ML**
+- 💬 Ask me about **Python, Reactjs, MYSQL, Web Application Development, Android App Development ,Javascript, Firebase, CSS, AI& ML, C++, JAVA**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
