@@ -2,17 +2,17 @@
 <h1 align="center">BTech In Computer Engineering (2024)</h1>
 
 
-- 🌱 I’m currently learning **React.js , API Integration**
+- 🌱 I’m currently learning **.Net Core , API Integration**
 
-- 👯 I’m looking to collaborate on **AI ML , Python Development**
+- 👯 I’m looking to collaborate on **AI ML , Python Development, .Net Core Development, Web Development**
 
 - 🤝 I’m looking for help with **Full Stack web Development**
 
-- 💬 Ask me about **Python, Reactjs, MYSQL, Web Application Development, Android App Development ,Javascript, Firebase, CSS, AI& ML, C++, JAVA**
+- 💬 Ask me about **Python, C#, .Net Core, Asp .Net, Reactjs, MYSQL, Web Application Development, Android App Development ,Javascript, Firebase, CSS, AI& ML, C++, JAVA**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
-- 📄 Know about my experiences by viewing my resume [https://drive.google.com/file/d/1E-8dr--n04Ush8qqb0acOmOKGnoIRuMd/view?usp=sharing]
+- 📄 Know about my experiences by viewing my resume [https://drive.google.com/file/d/1Bbsp83K9Y7yIQkLyW-u8u-2V1LhGqoo4/view?usp=sharing]
 - Freelancing Projects  : [https://drive.google.com/drive/folders/1nVRmC5K3H76as9X1YnssIo7euYg0Vn9v?usp=sharing]
 
 
